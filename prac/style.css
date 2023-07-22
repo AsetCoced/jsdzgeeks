@@ -1,0 +1,25 @@
+/*.container{*/
+/*    width: 1200px;*/
+/*    margin: 0 auto;*/
+/*    text-align: center;*/
+/*}*/
+/*.menu__inner{*/
+/*    display: flex;*/
+/*    justify-content: space-around;*/
+/*    margin: 0 auto;*/
+/*    width: 400px;*/
+/*    height: 100px;*/
+/*    align-items: center;*/
+/*    border: purple solid 1px;*/
+/*    background-color: red;*/
+
+/*}*/
+/*.menu__item button{*/
+/*    box-shadow: 2px 1px 1px whitesmoke;*/
+/*    height: 50px;*/
+/*    border-radius: 12px;*/
+/*}*/
+/*.menu__item:hover{*/
+/*    background-color: yellow;*/
+/*    box-shadow: #063fb9 2px 1px 1px;*/
+/*}*/
