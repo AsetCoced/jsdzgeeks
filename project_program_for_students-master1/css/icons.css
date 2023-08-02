@@ -1,0 +1,28 @@
+.icons__inner{
+    margin: 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+
+}
+.icons__inner__item{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border: 2px solid red;
+    padding: 15px ;
+    color: white;
+    text-align: center;
+}
+.icons__inner__item p {
+    padding-top: 5px;
+    border: 1px solid gold;
+}
+.icons__inner__item img{
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+    display: block;
+}
